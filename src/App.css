@@ -7,14 +7,14 @@
 .first_page {
   display: flex;
   height: 100vh;
-  background-image: url("https://cdn.pixabay.com/photo/2018/07/05/14/45/conference-3518465_1280.jpg");
+  background-image: url("https://cdn.pixabay.com/photo/2013/02/20/01/04/meeting-83519_640.jpg");
   background-size: cover;
   background-position: center;
   justify-content: center;
   align-items: center;
   color: white;
   overflow: hidden; 
-  background-color: rgb(185, 186, 187);
+  background-color: rgb(185, 186, 187, 0.95);
   /* position: relative; */
 }
 
