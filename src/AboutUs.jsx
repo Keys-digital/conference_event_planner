@@ -1,18 +1,31 @@
-import React from 'react'
+import React from "react";
 
 const AboutUs = () => {
-    return (
-        <div className="aboutus_container">
-            <p>
-                Welcome to BudgetEase Solutions, your trusted partner in simplifying budget management and financial solutions. At BudgetEase, we understand the importance of effective budget planning and strive to provide intuitive, user-friendly solutions to meet the diverse needs of our clients.
-            </p>
-            <p>With a commitment to efficiency and innovation, we empower individuals and businesses to take control of their finances and achieve their goals with ease.</p>
-            <p>At BudgetEase Solutions, our mission is to make budgeting effortless and accessible for everyone. Whether you're a small business owner, a busy professional, or an individual looking to manage your personal finances, we offer tailored solutions to streamline your budgeting process.
-            </p>
-            {/* <p>                Our team of experts is dedicated to providing exceptional service and support, guiding you every step of the way to financial success. With BudgetEase Solutions, you can trust us to simplify your finances and pave the way for a brighter financial future.
-            </p> */}
-        </div>
-    )
-}
+  return (
+    <div className="aboutus_container">
+      <p>
+        Welcome to BudgetEase Solutions, your trusted partner in simplifying
+        budget management. We understand the importance of effective planning
+        and offer intuitive, user-friendly solutions to meet the unique needs of
+        our clients.
+      </p>
+      <p>
+        Driven by efficiency and innovation, we help individuals and businesses
+        take control of their finances and easily achieve their goals.
+      </p>
+      <p>
+        At BudgetEase Solutions, we aim to make budgeting simple and accessible
+        for all. Whether you're a small business owner, a busy professional, or
+        managing personal finances, we provide customized solutions to simplify
+        your budgeting.
+      </p>
+      <p>
+        Our expert team is here to simplify your finances, helping you plan and
+        enjoy life’s events with confidence. With BudgetEase Solutions, we’ll
+        guide you to a brighter financial future.
+      </p>
+    </div>
+  );
+};
 
-export default AboutUs
+export default AboutUs;
